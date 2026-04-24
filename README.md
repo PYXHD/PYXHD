@@ -28,7 +28,8 @@ Exploring creative development with Three.js and Blender.
       <strong>Tools</strong>
     </td>
     <td style="padding-top: 16px; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  style="margin-right:6px;"  width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="45" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
     </td>
   </tr>
