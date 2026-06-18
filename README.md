@@ -71,7 +71,7 @@ It combines data tracking, statistics, and an interactive interface enhanced by 
 </p>
 
 <p align="center"  style="padding-top: 32px">
-  <a href="https://modjiz.vercel.app/">
+  <a href="https://modjiz.fr/">
     <img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge" width="100"/>
   </a>
   <a href="https://github.com/PYXHD/Modjiz">
@@ -80,10 +80,14 @@ It combines data tracking, statistics, and an interactive interface enhanced by 
 </p>
 
 <h3>What this project demonstrates:</h3>
-<p style="padding-left: 32px">- Building a complete front-end application from scratch </p>
-<p style="padding-left: 32px">- State management and data visualization </p>
-<p style="padding-left: 32px">- Writing maintainable and tested code (Jest)</p>
-<p style="padding-left: 32px">- Creating interactive and user-centered interfaces</p>
+<p style="padding-left: 32px">- Building and deploying a complete full-stack web application from scratch </p>
+<p style="padding-left: 32px">- Authentication flows with email verification, password recovery, and bot protection </p>
+<p style="padding-left: 32px">- State management, data persistence, and user session handling</p>
+<p style="padding-left: 32px">- Responsive and accessible user interface design</p>
+<p style="padding-left: 32px">- SEO fundamentals, metadata management, and social sharing integration</p>
+<p style="padding-left: 32px">- Secure email delivery with custom transactional templates</p>
+<p style="padding-left: 32px">- Scalable component architecture and maintainable code organization</p>
+<p style="padding-left: 32px">- Writing tested and maintainable code with Jest</p>
 
 <h2 style="padding-top: 32px" align="center">- Connect with me -</h2>
 
