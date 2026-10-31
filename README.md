@@ -92,8 +92,13 @@ I'm curious and creative by nature, always looking for new ways to turn ideas in
 <h3 style="padding-top: 32px" align="center">- Presentation -</h3>
 
 <p align="center">
-  <img src="./capture_home.png" width="200" />
-  <img src="./capture_stats.png" width="200" style="padding-left: 64px" />
+  <img src="./screenshot.png" width="200" />
+  <img src="./screenshot_2.png" width="200" />
+</p>
+
+<p align="center">
+  <img src="./screenshot_3.png" width="200" />
+  <img src="./screenshot_4.png" width="200" />
 </p>
 
 <p align="center" style="padding-top: 32px">
