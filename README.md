@@ -85,6 +85,7 @@ I'm curious and creative by nature, always looking for new ways to turn ideas in
 
 <p style="padding-left: 32px">- Daily mood tracking with intuitive input</p>
 <p style="padding-left: 32px">- 3D character reflecting user emotions</p>
+<p style="padding-left: 32px">- Daily note-taking feature to record thoughts and feelings</p>
 <p style="padding-left: 32px">- Statistics and mood evolution over time</p>
 <p style="padding-left: 32px">- Secure user authentication and account management</p>
 <p style="padding-left: 32px">- Native Android application</p>
